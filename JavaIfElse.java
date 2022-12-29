@@ -20,9 +20,6 @@ public class odd {
 			System.out.print("wired");
 
 		}
-		
-		
-
-	}
+         }
 
 }
